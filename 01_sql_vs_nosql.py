@@ -111,3 +111,5 @@ Ans. SQL = structured + stable + relational.
 '''
 # Example (flashcard)
 # SQL → Tables | NoSQL → JSON-like documents
+
+# test change
