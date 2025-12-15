@@ -31,3 +31,10 @@ Click Connect
 # local
 
 # ✅ MongoDB is now usable.
+
+'''
+5. You can also open mongodb shell in the compass,
+without having to install separately.
+- Click on the left `localhost:27017`
+- Click on top `Open MongoDB Shell >_`
+'''
