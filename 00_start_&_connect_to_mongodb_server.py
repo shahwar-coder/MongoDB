@@ -4,7 +4,7 @@
 
 '''
 2. Check if mongodb is there:
->> which mongodb
+>> which mongod
 '''
 # /usr/local/mongodb/mongodb-macos-aarch64--8.2.2/bin/mongod
 
