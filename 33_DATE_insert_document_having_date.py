@@ -31,3 +31,9 @@ db.departments.insertOne({
 - Inserts a document with a UTC date field
 '''
 
+# Inserted one document into departments
+# ISODate(...) stored as UTC Date
+# MongoDB auto-added _id
+# Database + collection are now persisted with data
+# ✔️ This is the correct and recommended way to store dates.
+
